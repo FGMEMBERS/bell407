@@ -4,7 +4,7 @@
 	<sim>
 		<description>Bell 407 ( YASIM )</description>
 		<author>StuartC, Maik Justus (FDM)</author>
-		<status>0.2</status>
+		<status>0.3</status>
 		<license>GPL v2</license>
 
 		<flight-model>yasim</flight-model>

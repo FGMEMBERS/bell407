@@ -355,7 +355,7 @@ if(navStillOn) {
  <animation>
     <type>rotate</type>
     <object-name>tailrotor</object-name>
-    <property>/rotors/tail/blade[0]/position-deg</property>
+    <property>rotors/tail/blade[0]/position-deg</property>
     <center>
        <x-m> 6.88 </x-m>
        <y-m>0 </y-m>
